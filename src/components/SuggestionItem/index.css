@@ -1,0 +1,18 @@
+/* Write your CSS here */
+.list-card {
+  list-style-type: none;
+  display: flex;
+  justify-content: space-between;
+}
+
+.para {
+  font-family: Roboto;
+  color: #475569;
+  font-size: 14px;
+}
+.arrow {
+  height: 20px;
+  width: 20px;
+  cursor: pointer;
+  outline: none;
+}
